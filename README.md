@@ -15,5 +15,5 @@ I am a front-end mobile app developer.
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DPseunoff)](https://github.com/DPseunoff/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DPseunoff&langs_count=2)](https://github.com/DPseunoff/github-readme-stats)
 
