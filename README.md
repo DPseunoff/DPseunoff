@@ -1,7 +1,6 @@
 ### :man_technologist: About Me :
 I am a front-end mobile app developer.
 - :computer: I'm working in startup NoStress.Dev
-- :zap: In my free time, I read tech articles.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
