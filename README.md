@@ -2,6 +2,10 @@
 I am a front-end mobile app developer.
 - :computer: I'm working in startup NoStress.Dev
 
+<div id="header" align="center">
+  <img src="https://sun9-46.userapi.com/impf/c852128/v852128568/7d317/hwXy7zfCd3w.jpg?size=1080x1244&quality=96&sign=1751f9c2c296dbe15331ea117c39c6a2&c_uniq_tag=1ORMkDZFbFRzdK604Dfj9NRXYkGMfCP69CYFsnkYgeI&type=album" width="100"/>
+</div>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
